@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-class TextTest extends Frame{
+class log extends Frame{
     TextTest(String s){
        super(s);
        setLayout(null);
