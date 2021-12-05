@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-class SimpleComp extends Frame{
+class easting extends Frame{
 	SimpleComp(String s){
 		super(s);
 		setLayout(null);
